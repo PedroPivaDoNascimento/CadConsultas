@@ -62,7 +62,7 @@ public class FrHome extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         lblTitle.setFont(new java.awt.Font("Liberation Sans", 3, 24)); // NOI18N
-        lblTitle.setText("GERENCIADOR DE DCONSULTAS");
+        lblTitle.setText("GERENCIADOR DE CONSULTAS");
         painelTitle.add(lblTitle);
 
         painelOptions.setLayout(new java.awt.FlowLayout(java.awt.FlowLayout.CENTER, 40, 5));

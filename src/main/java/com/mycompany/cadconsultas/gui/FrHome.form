@@ -55,7 +55,7 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Liberation Sans" size="24" style="3"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="GERENCIADOR DE DCONSULTAS"/>
+            <Property name="text" type="java.lang.String" value="GERENCIADOR DE CONSULTAS"/>
           </Properties>
         </Component>
       </SubComponents>
